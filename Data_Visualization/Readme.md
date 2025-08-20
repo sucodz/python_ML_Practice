@@ -7,3 +7,6 @@
 ## Scatter Plot <br>
 <img width="567" height="455" alt="image" src="https://github.com/user-attachments/assets/36032cd7-1d58-4e8b-ad1d-ee912dfa9453" />
 
+
+## Histogram <br>
+<img width="562" height="455" alt="image" src="https://github.com/user-attachments/assets/01a2cd73-be86-480b-9595-68b2e60cd644" />
